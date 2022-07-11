@@ -1,0 +1,7 @@
+Key Promoter X
+String Manipulation
+com.intellij.lang.jsgraphql
+com.nasller.CodeGlancePro
+izhangzhihao.rainbow.brackets
+lermitage.intellij.extratci
+zielu.gittoolbox
